@@ -1,0 +1,18 @@
+# Ignore Next.js build files and caches
+.next/
+node_modules/
+
+# Ignore environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.next/
+node_modules/
+node_modules/
+.next/
+*.log
